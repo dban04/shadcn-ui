@@ -20,6 +20,7 @@ const links = [
   { name: "context menu", href: "context-menu" },
   { name: "data-table", href: "data-table" },
   { name: "dialog", href: "dialog" },
+  { name: "form", href: "form" },
   { name: "input-opt", href: "input-opt" },
   { name: "menu bar", href: "menu-bar" },
   { name: "progress", href: "progress" },
